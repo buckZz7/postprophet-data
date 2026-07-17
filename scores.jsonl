@@ -1,1 +1,2 @@
 {"scored_at": "2026-07-17T20:09:01.054467+00:00", "batch_size": 8, "brier_score": 0.1121875, "model": "gpt-4o-mini", "timeframe_hours": 24, "target": "2x_median"}
+{"scored_at": "2026-07-17T22:30:47.187884+00:00", "batch_size": 258, "brier_score": 0.1734011627906977, "model": "gpt-4o-mini", "harness_version": "1.0.0", "harness_hash": "v_2e2c9363", "timeframe_hours": 24, "target": "2x_median", "batch_type": "backfill"}

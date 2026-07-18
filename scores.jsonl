@@ -4,3 +4,4 @@
 {"scored_at": "2026-07-17T23:35:38.819384+00:00", "batch_size": 24, "brier_score": 0.45614583333333325, "model": "gpt-4o-mini", "harness_version": "1.0.0", "harness_hash": "v_2e2c9363", "timeframe_hours": 24, "target": "2x_median", "batch_type": "backfill"}
 {"scored_at": "2026-07-18T01:13:27.301760+00:00", "batch_size": 119, "brier_score": 0.15460084033613486, "model": "gpt-4o-mini", "harness_version": "1.0.2", "harness_hash": "v_31ea78b4", "timeframe_hours": 24, "target": "2x_median", "batch_type": "backfill"}
 {"scored_at": "2026-07-18T01:42:56.128112+00:00", "batch_size": 279, "brier_score": 0.20211469534050183, "model": "gpt-4o-mini", "harness_version": "1.0.2", "harness_hash": "v_31ea78b4", "timeframe_hours": 24, "target": "2x_median", "batch_type": "backfill"}
+{"scored_at": "2026-07-18T16:00:08.675928+00:00", "batch_size": 17, "brier_score": 0.1792647058823529, "model": "gpt-4o-mini", "harness_version": "1.0.2", "timeframe_hours": 24, "target": 10000}
